@@ -1,0 +1,48 @@
+ {
+     "speakers" : [
+            {
+             "Name":"Mrs. Anisha Motwani",
+             "desgn":"Founder and Director, STROM the NORM"
+            },
+            {
+                "Name":"Mrs. Kiran Bedi",
+                "desgn":"First female IPS officer, Former Lieutenant Governor of Puducherry"
+            },
+            {
+                "Name":"Sidharth Sogani",
+                "desgn":"CEO - CREBACO Global Inc"
+            },
+            {
+                "Name":"Shivam Thakral",
+                "desgn":"CEO & Co-Founder BuyUcoin"
+            },
+            {
+                "Name":"Anil Lulla",
+                "desgn":"CEO & Co-Founder BuyUcoin"
+            },
+            {
+                "Name":" Raj Chowdhury",
+                "desgn":"Managing Director, HashCash Consultants"
+            },
+            {
+                "Name":" Prof. Vivek Polshettiwar",
+                "desgn":"Associate Professor, TIFR"
+            },
+            {
+                "Name":"Dr. Sivapriya Kirubakaran",
+                "desgn":"Associate Professor, IIT Gandhinagar"
+            },
+            {
+                "Name":"Vinayak Nath",
+                "desgn":"Serial Entrepreneur | TEDx Speaker"
+            },
+            {
+                "Name":"Sanjay Jesrani",
+                "desgn":"Founder & CEO, Go North Ventures"
+            },
+            {
+                "Name":"Shashank Randev",
+                "desgn":"Founder VC at 100X.VC"
+            }
+        ]
+    }

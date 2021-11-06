@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+*{
+    /* padding: 0; */
+    /* margin: 0; */
+}
+body::-webkit-scrollbar{
+     display: ;
+}
+body{
+    font-family: 'Ubuntu';
+    background-color: rgb(21, 27, 61);
+    color:whitesmoke;
+    padding: 0px;
+    margin: 0px;
+}
+ul{
+    list-style-type: none;
+}
+#aboutus{
+    background-image:
+    linear-gradient(to bottom, rgba(21, 27, 61, 1),rgba(21, 27, 61, 0.7),rgba(21, 27, 61, 0.2),rgba(21, 27, 61, 0.2), rgba(21, 27, 61, 0.5),rgba(21, 27, 61, 1)),
+    url('https://i.pinimg.com/originals/fa/0d/b5/fa0db5baa9ea2b44b1e5695c12b216c1.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+}
+#Theme{
+    display:grid;
+    justify-content:space-between;
+    /* align-content: center; */
+    background-image:
+    linear-gradient(to bottom, rgba(21, 27, 61, 1),rgba(21, 27, 61, 0.7),rgba(21, 27, 61, 0.2),rgba(21, 27, 61, 0.2), rgba(21, 27, 61, 0.5),rgba(21, 27, 61, 1)),
+    url('images/Themebg.jpg');
+    
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+    margin: 0px;
+}
+.navbar{
+    
+    margin-top: 40px;
+    border: 2px solid rgb(60, 81, 201);
+    position: sticky;
+    top: 0px;
+    width: 100%;
+    background-color: rgb(11, 9, 128); 
+    /* margin:20px auto 20px auto; */
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    /* overflow:auto */
+    height:50px;
+}
+#ESLogo{
+    float: left;
+    height: 150px;
+    padding: none;
+    margin-top: -50px;
+    /* outline-color: tomato; */
+    /* shape-outside: element(); */
+    /* outline-width: thick; */
+    /* background-color: blue; */
+    /* color: white; */
+    /* display: inline; */
+    /* border-radius: 5px; */
+}
+.navbar li{
+    font-size: 20px;
+    float: right;
+    margin: -4px 20px 30px 2px;
+}
+.navbar a{
+    text-decoration: none;
+    color:inherit
+}
+#reign{
+    width: 70%;
+    margin:40px auto ;
+    display:block;
+    margin: auto;
+    /* background-blend-mode:soft-light; */
+    /* border-color: lawngreen ; */
+    /* border-width: 10px; */
+    /* border-style:ridge; */
+    /* background-color:rgb(63, 44, 97); */
+}
+.regis{
+    height: 1000px;
+    background-size: cover;
+    background-image:
+    linear-gradient(to bottom,rgba(21, 27, 61, 1),rgba(21, 27, 61, 0.9),rgba(21, 27, 61, 0.8),rgba(21, 27, 61, 0.6), rgba(21, 27, 61, 0.5),rgba(21, 27, 61, 1)),
+    url("https://p0.piqsels.com/preview/439/141/199/business-leadership-map-world.jpg");
+}
+#register_btn{
+    border-radius: 30px;
+    font-size: 20px;
+    padding: 10px 50px;
+    margin:40px auto ;
+    display:block;
+    margin: auto;
+}
+.subtext{
+    font-size: 20px;
+    text-align: justify;
+    
+    margin: 20px auto;
+    width: 80%;
+    max-width: 1000px;
+    word-spacing: 14px;
+    /* line-height-step: 15px; */
+}
+#speakers{
+    width: 100%;
+}
+
+#contactusimg{
+    height:300px;
+    width: auto;
+    display: inline;
+    float: left;
+}
+#contactus{
+    display: inline;
+    float: left;
+    padding: 50px;
+}
+.icons{
+    display: inline;
+    margin-right: 20px;
+}
+.quicklink{
+    display: inline;
+    float: left;
+    padding:50px;
+    text-align: center;
+}
+.quicklink a{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+}
+.quicklink a:visited{
+    color:yellow
+}
