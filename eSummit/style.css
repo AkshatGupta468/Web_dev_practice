@@ -30,7 +30,7 @@ ul{
     /* align-content: center; */
     background-image:
     linear-gradient(to bottom, rgba(21, 27, 61, 1),rgba(21, 27, 61, 0.7),rgba(21, 27, 61, 0.2),rgba(21, 27, 61, 0.2), rgba(21, 27, 61, 0.5),rgba(21, 27, 61, 1)),
-    url('images/Themebg.jpg');
+    url("https://github.com/AkshatGupta468/Web_dev_practice/blob/main/eSummit/Images/Themebg.jpg");
     
     background-size: cover;
     width: 100%;
